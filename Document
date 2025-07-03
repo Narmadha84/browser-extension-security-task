@@ -1,0 +1,56 @@
+📌 Task 7: Identify and Remove Suspicious Browser Extensions
+
+This task is part of the Cyber Security Internship to develop awareness of browser security risks and manage browser extensions securely.
+🧰 Tools Used
+
+    Google Chrome
+
+    Mozilla Firefox
+
+🔍 Steps Followed
+
+    Opened Browser Extension Managers
+
+        chrome://extensions/ in Chrome
+
+        about:addons in Firefox
+
+    Reviewed Installed Extensions
+
+        Checked for:
+
+            Suspicious or duplicate copy-bypass tools
+
+            Unsupported extensions
+
+            Excessive permissions
+
+    Removed Unnecessary / Unsafe Extensions
+
+        Removed multiple “copy-paste enabler” tools
+
+        Removed unsupported and unused extensions
+
+    Restarted Browsers
+
+        Ensured changes applied and observed performance
+
+    Security Research
+
+        Learned how malicious extensions can:
+
+            Steal passwords and data
+
+            Redirect browsing
+
+            Use system resources for mining or tracking
+
+🧠 Key Learnings
+
+    Extensions may seem helpful but can pose real risks
+
+    Permissions should always be reviewed
+
+    Less is better — keep only essential, trusted extensions
+
+    Regular review keeps your browser and data safe
